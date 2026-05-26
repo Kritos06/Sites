@@ -1,5 +1,27 @@
 body{
     background-image: url(./Images/wallpaper2.jpg);
     background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+
+}
+#BEM-VINDO-DIV{
+    margin: 12% auto;
+    width: 60%;
+    background-color: lightgray;
+    border: 1px lightgray solid;
+    border-radius: 20px;
+
+}
+#BEM-VINDO-DIV #BEM-VINDO{
+    text-align: center;
+    font-size: 600%;
+
+}
+.CORPO{
+    background-color: lightgray;
+    width: 100%;
+    margin-top: 30%;
+    padding: 0.5% 5%;
 
 }
